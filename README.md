@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Denis!
 
-<!--
-**DenisReznikov/DenisReznikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Full-Stack Developer with a knack for turning ideas into reality through code. With a strong foundation in both front-end and back-end technologies, I love building robust, scalable, and user-friendly applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend**: HTML5, CSS3, JavaScript, React
+- **Backend**: Python, Django, FastAPI, C++
+- **Database**: MongoDB, PostgreSQL
+- **DevOps**: Docker, Kubernetes, GCP
+- **Tools**: Git, GitHub, VS Code, Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- Email: denis.reznikov@gmail.com
+
+## 🤝 Open to Collaboration
+I'm open to collaborating on interesting projects and innovative ideas. Feel free to reach out if you want to work together!
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)
