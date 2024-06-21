@@ -18,4 +18,4 @@ I'm open to collaborating on interesting projects and innovative ideas. Feel fre
 
 ---
 
-⭐️ From [Your Name](https://github.com/DenisReznikov)
+⭐️ From [Denis](https://github.com/DenisReznikov)
